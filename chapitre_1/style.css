@@ -1,0 +1,10 @@
+.para{
+    color:red;
+    padding: 10px;
+    border: 4px dotted red;
+}
+.success{
+    color:greenyellow;
+    padding: 10px;
+    border: 4px dotted greenyellow;
+}
